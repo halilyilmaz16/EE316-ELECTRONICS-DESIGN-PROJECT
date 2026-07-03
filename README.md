@@ -1,18 +1,20 @@
-# EE316-ELECTRONICS-DESIGN-PROJECT
-IZTECH EEE PROJETS LECTURE 
+# Capacitive Water Level Controller
 
-# Water Level Controller
+An analog closed-loop water level control system designed and implemented
+for the EE 316 Electronic Design Project at İzmir Institute of Technology.
 
-This project implements a closed-loop water level control system capable of maintaining a stable water level in a tank under continuous water drainage conditions.
+The system detects liquid-level variations using a custom cylindrical
+capacitive sensor. The sensor output is processed through phase detection,
+filtering, amplification, error generation, and PWM stages. The resulting
+PWM signal controls a submersible DC water pump through an L298N motor driver.
 
-The system measures water level through capacitive sensing using two electrodes placed inside the tank. A potentiometer allows the user to set the desired water level between 5 cm and 15 cm. Based on the measured level and the reference value, a PWM-controlled DC pump dynamically adjusts the incoming water flow.
+## Key Features
 
-Main topics covered in this project include:
-- Capacitive sensing techniques
-- PWM motor driver circuits
-- Closed-loop proportional control
-- DC motor characteristics
-- Analog signal conditioning
-- Power electronics fundamentals
-
-The hardware was implemented as a prototype using discrete ICs, analog circuitry, and external components without a dedicated PCB design.
+- Custom cylindrical capacitive water-level sensor
+- TLC555-based oscillator
+- XOR-based phase detection
+- RC filtering and LM358 signal amplification
+- Adjustable reference water level
+- PWM-based pump speed control
+- Motor overcurrent protection
+- LTspice simulation and real-world circuit testing
