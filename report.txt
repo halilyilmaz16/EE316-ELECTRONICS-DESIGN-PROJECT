@@ -1,0 +1,60 @@
+Bilgi: İşlem sembolü 'C1:Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm'.
+Bilgi: İşlem sembolü 'C2:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm'.
+Bilgi: İşlem sembolü 'C3:Capacitor_THT:CP_Radial_D5.0mm_P2.50mm'.
+Bilgi: İşlem sembolü 'C4:Capacitor_THT:CP_Radial_D5.0mm_P2.50mm'.
+Bilgi: İşlem sembolü 'C5:Capacitor_THT:CP_Radial_D5.0mm_P2.50mm'.
+Bilgi: İşlem sembolü 'C6:Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm'.
+Bilgi: İşlem sembolü 'C7:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm'.
+Bilgi: İşlem sembolü 'J1:Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical'.
+Bilgi: İşlem sembolü 'J2:Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical'.
+Bilgi: İşlem sembolü 'J3:Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical'.
+Bilgi: İşlem sembolü 'R1:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Bilgi: İşlem sembolü 'R2:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Bilgi: İşlem sembolü 'R3:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Bilgi: İşlem sembolü 'R4:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Bilgi: İşlem sembolü 'R5:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Bilgi: İşlem sembolü 'R6:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Bilgi: İşlem sembolü 'R7:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Bilgi: İşlem sembolü 'R8:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Bilgi: İşlem sembolü 'R9:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Bilgi: İşlem sembolü 'R10:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Bilgi: İşlem sembolü 'R11:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Bilgi: İşlem sembolü 'R16:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Bilgi: İşlem sembolü 'R14:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Bilgi: İşlem sembolü 'R15:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Bilgi: İşlem sembolü 'R12:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Bilgi: İşlem sembolü 'R13:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Bilgi: İşlem sembolü 'RV1:Potentiometer_THT:Potentiometer_Piher_PC-16_Single_Vertical'.
+Bilgi: İşlem sembolü 'U1:Package_DIP:DIP-8_W7.62mm'.
+Bilgi: İşlem sembolü 'U2:Package_DIP:DIP-8_W7.62mm'.
+Bilgi: İşlem sembolü 'U3:Package_DIP:DIP-14_W7.62mm'.
+Bilgi: İşlem sembolü 'U4:Package_DIP:DIP-8_W7.62mm'.
+Bilgi: İşlem sembolü 'U5:Package_DIP:DIP-14_W7.62mm'.
+Bilgi: İşlem sembolü 'U6:Package_DIP:DIP-8_W7.62mm'.
+R11 birim meta verileri güncellendi.
+R11 iz düşümü 'Resistor_SMD:R_0603_1608Metric'den 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'e değiştirildi.
+R11 alanı güncellendi.
+Uyarı: U3 bileşeni 4 pedi için ağ bağlantısı bulunamadı (sembolde 4 pini yok).
+Uyarı: U3 bileşeni 13 pedi için ağ bağlantısı bulunamadı (sembolde 13 pini yok).
+Uyarı: U3 bileşeni 6 pedi için ağ bağlantısı bulunamadı (sembolde 6 pini yok).
+Uyarı: U3 bileşeni 5 pedi için ağ bağlantısı bulunamadı (sembolde 5 pini yok).
+Uyarı: U3 bileşeni 8 pedi için ağ bağlantısı bulunamadı (sembolde 8 pini yok).
+Uyarı: U3 bileşeni 11 pedi için ağ bağlantısı bulunamadı (sembolde 11 pini yok).
+Uyarı: U3 bileşeni 9 pedi için ağ bağlantısı bulunamadı (sembolde 9 pini yok).
+Uyarı: U3 bileşeni 10 pedi için ağ bağlantısı bulunamadı (sembolde 10 pini yok).
+Uyarı: U2 bileşeni 8 pedi için ağ bağlantısı bulunamadı (sembolde 8 pini yok).
+Uyarı: U4 bileşeni 6 pedi için ağ bağlantısı bulunamadı (sembolde 6 pini yok).
+Uyarı: U4 bileşeni 4 pedi için ağ bağlantısı bulunamadı (sembolde 4 pini yok).
+Uyarı: U4 bileşeni 5 pedi için ağ bağlantısı bulunamadı (sembolde 5 pini yok).
+Uyarı: U4 bileşeni 7 pedi için ağ bağlantısı bulunamadı (sembolde 7 pini yok).
+Uyarı: U4 bileşeni 8 pedi için ağ bağlantısı bulunamadı (sembolde 8 pini yok).
+Uyarı: U2 bileşeni 4 pedi için ağ bağlantısı bulunamadı (sembolde 4 pini yok).
+Uyarı: U3 bileşeni 12 pedi için ağ bağlantısı bulunamadı (sembolde 12 pini yok).
+Uyarı: U6 bileşeni 4 pedi için ağ bağlantısı bulunamadı (sembolde 4 pini yok).
+Uyarı: U6 bileşeni 8 pedi için ağ bağlantısı bulunamadı (sembolde 8 pini yok).
+Uyarı: U6 bileşeni 7 pedi için ağ bağlantısı bulunamadı (sembolde 7 pini yok).
+Uyarı: U6 bileşeni 6 pedi için ağ bağlantısı bulunamadı (sembolde 6 pini yok).
+Uyarı: U6 bileşeni 5 pedi için ağ bağlantısı bulunamadı (sembolde 5 pini yok).
+
+
+Bilgi: Toplam uyarı: 21, hata: 0.
