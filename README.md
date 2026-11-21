@@ -61,6 +61,24 @@ flowchart LR
 | `reports_and_demonstration/` | Final report (26 pages) and demonstration slides |
 | `report.txt` | Log produced when the PCB was updated from the schematic in KiCad |
 
+## KiCad design review (November 2026)
+
+> **⚠️ Not tested in hardware.** The KiCad schematic and PCB in this repository were revised after the
+> project and checked only with KiCad's electrical rules check (ERC: 0 errors) and design rules check
+> (DRC: 0 errors, 0 unconnected). The revised board has **not been manufactured or tested**. The
+> bench prototype in the report was built on a breadboard, not from this PCB.
+
+Changes compared with the original KiCad files:
+
+| Change | Why |
+|---|---|
+| Power units added for U2/U4 (LM358) and U6 (LM393); pins 8/4 now on +5V/GND | Their power pins were unconnected on the PCB, so the op-amps had no supply |
+| Unused op-amp (U4B), comparator (U6B) and XOR gates (U3B–D) terminated | Floating inputs can oscillate and draw extra current |
+| 100 nF decoupling capacitor added at every IC (C8–C13) | The board had no decoupling |
+| R17 10 kΩ pull-up on the LM393 output (J2) | The LM393 has an open-collector output, so it could never drive high |
+| RV1 pin 1 tied to GND; C5 moved to the wiper as a filter | One end of the pot was unconnected, so the reference stayed fixed at 2.5 V |
+| GND copper pour on the bottom layer; PWR_FLAG symbols added | Grounding and ERC |
+
 ## Documents
 
 - [Final report](reports_and_demonstration/Water_Level_Controller_final_report.pdf): design, revision history, challenges
